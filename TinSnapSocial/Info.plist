@@ -20,6 +20,14 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Nos dejas acceder a la libreria de fotos?</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Nos dejas acceder a la cámara para hacer fotos?</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Nos dejas acceder al microfono?</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Nos dejas acceder a la libreria de fotos?</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -28,11 +36,11 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>

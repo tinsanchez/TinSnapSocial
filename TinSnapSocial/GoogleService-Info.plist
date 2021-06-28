@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>749117394704-nn692956p595eq90vbe4lrlcvfsi18vv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.749117394704-nn692956p595eq90vbe4lrlcvfsi18vv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUhfTFTv2o0B19k1ZfeqkG0sFuau6Fd6k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>749117394704</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>none.TinSnapSocial</string>
+	<key>PROJECT_ID</key>
+	<string>tinsnapsocial-10023</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tinsnapsocial-10023.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:749117394704:ios:0a8c015a0e95769b1f1f95</string>
+	<key>DATABASE_URL</key>
+	<string>https://tinsnapsocial-10023-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
